@@ -1,0 +1,16 @@
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-areas: 
+        'h h'
+        'm s';
+
+}
+
+body {
+background: #E7EEF1;
+color: #454545;
+
+
+}

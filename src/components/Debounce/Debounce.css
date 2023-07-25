@@ -1,0 +1,18 @@
+.lis {
+    list-style: none;
+    cursor: pointer;
+}
+
+.las {
+    padding-left: 0%;
+}
+.itog {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+.itog1 {
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+}
